@@ -33,3 +33,8 @@ Product Development: Insights from sentiment analysis can guide product improvem
 Customer Support: Sentiment analysis can help prioritize customer support tickets based on the urgency of the sentiment expressed in the reviews.
 
 #OUTPUT-
+CONFUSION MATRIX VISUALIZE
+![Image](https://github.com/user-attachments/assets/250ef2cc-8355-40ea-bb03-bdfe2fb27a77)
+
+visualize the sentiment predictions
+![Image](https://github.com/user-attachments/assets/c42b4d29-4832-4c1f-81d0-850c2f017dd0)
